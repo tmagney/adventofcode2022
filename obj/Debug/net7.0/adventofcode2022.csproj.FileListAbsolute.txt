@@ -1,0 +1,15 @@
+C:\projects\adventofcode2022\obj\Debug\net7.0\adventofcode2022.csproj.AssemblyReference.cache
+C:\projects\adventofcode2022\obj\Debug\net7.0\adventofcode2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\adventofcode2022\obj\Debug\net7.0\adventofcode2022.AssemblyInfoInputs.cache
+C:\projects\adventofcode2022\obj\Debug\net7.0\adventofcode2022.AssemblyInfo.cs
+C:\projects\adventofcode2022\obj\Debug\net7.0\adventofcode2022.csproj.CoreCompileInputs.cache
+C:\projects\adventofcode2022\bin\Debug\net7.0\adventofcode2022.exe
+C:\projects\adventofcode2022\bin\Debug\net7.0\adventofcode2022.deps.json
+C:\projects\adventofcode2022\bin\Debug\net7.0\adventofcode2022.runtimeconfig.json
+C:\projects\adventofcode2022\bin\Debug\net7.0\adventofcode2022.dll
+C:\projects\adventofcode2022\bin\Debug\net7.0\adventofcode2022.pdb
+C:\projects\adventofcode2022\obj\Debug\net7.0\adventofcode2022.dll
+C:\projects\adventofcode2022\obj\Debug\net7.0\refint\adventofcode2022.dll
+C:\projects\adventofcode2022\obj\Debug\net7.0\adventofcode2022.pdb
+C:\projects\adventofcode2022\obj\Debug\net7.0\adventofcode2022.genruntimeconfig.cache
+C:\projects\adventofcode2022\obj\Debug\net7.0\ref\adventofcode2022.dll
