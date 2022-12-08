@@ -5,7 +5,7 @@ namespace AdventOfCode2022
     public class Day4
     {
         private string text = String.Empty;
-        private IList<string> input = new List<string>();
+         private IList<string> input = new List<string>();
 
         public Day4(bool isTest)
         {
