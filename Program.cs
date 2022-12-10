@@ -6,9 +6,9 @@
     {
         static void Main(string[] args)
         {
-            var day = new Day5(false);
+            var day = new Day6(false);
 
-            //day.printResult1();
+            day.printResult1();
             day.printResult2();
         }
     }
